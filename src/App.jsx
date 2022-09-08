@@ -1,4 +1,5 @@
 import './App.css';
+import Footer from './components/Footer';
 import Header from './components/Header';
 import Navbar from './components/Navbar';
 import Product from './components/Product';
@@ -45,6 +46,7 @@ function App() {
         productAddToCart='Carrito'
       />
       </div>
+      <Footer />
     </div>
   );
 }
