@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/empanadas-app/static/css/main.a008cb4f.css",
+    "main.js": "/empanadas-app/static/js/main.75de7686.js",
+    "static/media/empanada.png": "/empanadas-app/static/media/empanada.bf5032ff231f4a762ba6.png",
+    "index.html": "/empanadas-app/index.html",
+    "main.a008cb4f.css.map": "/empanadas-app/static/css/main.a008cb4f.css.map",
+    "main.75de7686.js.map": "/empanadas-app/static/js/main.75de7686.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a008cb4f.css",
+    "static/js/main.75de7686.js"
+  ]
+}
