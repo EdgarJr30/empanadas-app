@@ -1,0 +1,36 @@
+.product-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: #FFF;
+    font-size: 26px;
+}
+.product {
+    max-width: 450px;
+    display: flex;
+    justify-content: center;
+}
+
+.product-description {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    background-color: #424242;
+    border-radius: 20px;
+    padding: 12px;
+
+}
+
+.product-description img {
+    width: 50%;
+}
+
+.price, .add-to-cart {
+    width: 80%;
+    margin: 15px 0 50px 0;
+    display: flex;
+    font-size: 22px;
+    justify-content: space-evenly;
+}

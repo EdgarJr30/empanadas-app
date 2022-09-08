@@ -1,0 +1,11 @@
+.header {
+    max-width: 450px;
+    background-color: #1B1B1B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 12px;
+    border-radius: 20px;
+    color: #FFF;
+}
